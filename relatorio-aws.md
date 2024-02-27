@@ -6,7 +6,7 @@ Empresa: Abstergo Industries
 Responsável: Romulo Motta
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa DrogaInter, realizado por Romulo Motta. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
@@ -43,7 +43,7 @@ mais simples e mais dinâmicas.
 
 
 ## Conclusão
-A implementação de ferramentas na empresa Abstergo Industries  
+A implementação de ferramentas na empresa DrogaInter  
 tem como esperado descentralização de dependências, 
 mais tempo para focar no negócio e mais agilidade nas buscas 
 de informações, o que aumentará a eficiência e a produtividade 
